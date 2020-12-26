@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mj1506/MyAvalaraApp/issues"
   },
-  "homepage": "https://github.com/mj1506/MyAvalaraApp#readme"
+  "homepage": "https://github.com/mj1506/MyAvalaraApp#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  }
 }
